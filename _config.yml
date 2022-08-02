@@ -4,3 +4,4 @@ permalink: /404.html
 theme: jekyll-theme-cayman
 title: Felix's Page
 description: This is a frist test for an alternative CV.
+markdown: kramdown
